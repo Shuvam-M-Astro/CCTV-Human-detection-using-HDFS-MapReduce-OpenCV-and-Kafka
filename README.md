@@ -1,0 +1,1 @@
+# CCTV-Human-detection-using-HDFS-MapReduce-OpenCV-and-Kafka
